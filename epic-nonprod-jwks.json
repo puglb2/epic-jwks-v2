@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "alg": "RS384",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "x1EY0LI9KoxelV9GauhLQNqU12lPzUMZ3xeYLOBcJtoo96hX-wQlIK3qfJBrj9u7ZrdVKNc8Hpy81-mSTdgxkXDZTM7ZVVyby2flUFmj55zO9RrrqaK2oQbfq0lACpgePnXtxPHGzKJBEVMBpXSMiQTYhB37dPLTIiiwHdnEeXUO1vCUXZFjdN2bdJFeP4efEvGEd17vwez-GJqDc6k56pjM5e06YmRDOjKjBJFLSgZxcXy9fEsnL3q4eJOZikiQgP1zHgB8r3LnSV3E02wQ4NE3OeDujLWi_NL8P47017NH9jEBqAyr-3I3JBfkqYaYJkH1WL6udjLlAwkzCnW4g6VQxQxeaYEruyZfV8kmFJxQEe9O48d8xwZF4hOSqfS9BGvLzLrU_5OJRLRS-2gVIyzIbSL9zWvAEgPEo8JyP_BQPmdj9zIru2JvOIvHWe2ZpIpACw2OLI9kpezqgp1k0gi4AxrtcMZTT2pJL0RwiR7DR7B-JRJV4UPwDM3f_pBL",
+      "kid": "ams-roi-connector-epic-nonprod-20260716-2b4d5e7f879e",
+      "use": "sig"
+    }
+  ]
+}
